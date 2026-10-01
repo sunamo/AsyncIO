@@ -1,3 +1,7 @@
+## Short description
+
+Fork knihovny AsyncIO, přenosné vysoce výkonné socketové knihovny pro .NET založené na Windows IO Completion Ports. Umožňuje plnou kontrolu nad vlákny pro tvorbu rychlých serverů. Kód je cizí, bez vlastních úprav.
+
 AsyncIO
 ========
 
